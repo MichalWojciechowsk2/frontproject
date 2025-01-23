@@ -24,6 +24,9 @@ After clicking on the calendar icon, you can manually select the date.
 You can scroll through week by week by clicking the previous week and next week buttons.
 ![image](https://github.com/user-attachments/assets/5037219e-c99c-4a0a-8277-fdca0ab833a8)
 
+After hovering over and clicking on the calendar field, a form for adding a task is displayed.
+![image](https://github.com/user-attachments/assets/8dbfa5ee-c84f-4cae-bf15-938354bba08d)
+
 When tasks overlap, hovering over a task will highlight it from the others.
 ![image](https://github.com/user-attachments/assets/4c9b5b4c-32f5-44bb-831f-af3c72d9e8e2)
 
