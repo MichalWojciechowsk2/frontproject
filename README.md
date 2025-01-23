@@ -4,6 +4,9 @@ Each day is divided into fields corresponding to one hour. Information about cla
 Clicking on the selected class opens a component with a form for editing, creating or deleting a class.
 There is a possibility of registration and logging in. The application uses Firebase, Firestore Firebase.
 
+Live version of the application:
+https://frontproject-phi.vercel.app/
+
 
 Password and login of registered test user:
 
